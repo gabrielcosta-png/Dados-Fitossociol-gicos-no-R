@@ -31,7 +31,7 @@ library(vegan)
 
 Este script é colaborativo. Caso tenha alguma contribuição, sinta-se à vontade para enviá-la por e-mail (gabriel.ferreira@alunos.ufersa.edu.br) ou realizar um commit aqui no GitHub. Agradeço desde já
 
-# Caso o Script tenha te ajudado, pense em contribuir para o pix : gabriel.ferreira@alunos.ufersa.edu.br 
+# Caso o Script tenha te ajudado, pense em contribuir para o pix : gakaelc@gmail.com
 
 ## Para citar:
 
