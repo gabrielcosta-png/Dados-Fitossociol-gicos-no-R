@@ -21,7 +21,13 @@ library(tidyr)
 library(forcats)
 library(vegan)
 
-# Copie o Codigo e ou baixe o script anexado.
+# Copie o Codigo ou baixe o script anexado.
+
+# Para utilizar o codigo será necessario seguir o modelo da planilha, conforme o modelo
+
+![image](https://github.com/user-attachments/assets/dbbd8e67-677f-4247-9b6c-c0124aa4f4a2)
+
+
 
 Este script é colaborativo. Caso tenha alguma contribuição, sinta-se à vontade para enviá-la por e-mail (gabriel.ferreira@alunos.ufersa.edu.br) ou realizar um commit aqui no GitHub. Agradeço desde já
 
